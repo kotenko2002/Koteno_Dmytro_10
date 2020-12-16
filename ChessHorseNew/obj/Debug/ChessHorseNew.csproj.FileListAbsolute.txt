@@ -1,0 +1,7 @@
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\bin\Debug\ChessHorseNew.exe.config
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\bin\Debug\ChessHorseNew.exe
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\bin\Debug\ChessHorseNew.pdb
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\obj\Debug\ChessHorseNew.csprojAssemblyReference.cache
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\obj\Debug\ChessHorseNew.csproj.CoreCompileInputs.cache
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\obj\Debug\ChessHorseNew.exe
+D:\University\ОП\Лабы\GameNew\ChessHorseNew\ChessHorseNew\obj\Debug\ChessHorseNew.pdb
